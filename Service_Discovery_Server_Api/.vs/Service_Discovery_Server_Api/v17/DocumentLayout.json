@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vuong\\source\\repos\\Server Discovery\\Service_Discovery_Server_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7E2BEE-34A4-46D4-B675-5D02CE3B9AF3}|Service_Discovery_Server_Api\\Service_Discovery_Server_Api.csproj|c:\\users\\vuong\\source\\repos\\server discovery\\service_discovery_server_api\\service_discovery_server_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E7E2BEE-34A4-46D4-B675-5D02CE3B9AF3}|Service_Discovery_Server_Api\\Service_Discovery_Server_Api.csproj|solutionrelative:service_discovery_server_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vuong\\source\\repos\\Server Discovery\\Service_Discovery_Server_Api\\Service_Discovery_Server_Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Service_Discovery_Server_Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vuong\\source\\repos\\Server Discovery\\Service_Discovery_Server_Api\\Service_Discovery_Server_Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Service_Discovery_Server_Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T04:08:36.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

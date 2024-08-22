@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JGEhqKRPirkr3ekHR+zxtEXdXl0G9n6dShJBYFb6gd8=",
+  "Source": "Service_Discovery_Server_Api",
+  "BasePath": "_content/Service_Discovery_Server_Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
